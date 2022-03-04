@@ -1,12 +1,14 @@
-## Programowanie Obiektowe
+# Programowanie Obiektowe
+## Wstęp
 ### Zasady Zaliczania
 - jedna nieobecność dozwolona
 - oceniane postępy na każdym laboratorium, na podstawie repozytorium
 - Terminy konsultacji podane na stronie Wydziału
-### literatura
+### Literatura
 - *Django 3. Praktyczne tworzenie aplikacji sieciowych. Wydanie III* Autor: Antonio Melé
 - *Python. Instrukcje dla programisty. Wydanie II* Autor: Eric Matthes
 
+## Program Laboratoriów
 ### Laboratorium 1
 **Wstęp do pythona**
 1. Instalacja Python 3.10 - https://www.python.org/downloads/
