@@ -3,6 +3,9 @@
 - jedna nieobecność dozwolona
 - oceniane postępy na każdym laboratorium, na podstawie repozytorium
 - Terminy konsultacji podane na stronie Wydziału
+### literatura
+- *Django 3. Praktyczne tworzenie aplikacji sieciowych. Wydanie III* Autor: Antonio Melé
+- *Python. Instrukcje dla programisty. Wydanie II* Autor: Eric Matthes
 
 ### Laboratorium 1
 **Wstęp do pythona**
