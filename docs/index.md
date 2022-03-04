@@ -5,6 +5,14 @@
 - Terminy konsultacji podane na stronie Wydziału
 
 ### Laboratorium 1
+**Wstęp do pythona**
+1. Instalacja Python 3.10 - https://www.python.org/downloads/
+2.  W celu wprowadzenia do korzystania z Pythona:
+Do przerobienia tematy:
+    - [od Python Introduction do Python Datatypes](
+https://www.programiz.com/python-programming/first-program)
+
+### Laboratorium 2
 **Wstęp do programowania obiektowego**
 1. Korzystanie z GIT i GitHUB
     - Zrób QuickStart: [quickstart](https://docs.github.com/en/get-started/quickstart)
