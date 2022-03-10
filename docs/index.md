@@ -11,7 +11,7 @@
 ## Program Laboratoriów
 ### Laboratorium 1
 **Wstęp do pythona**
-1. Instalacja Python 3.10 - https://www.python.org/downloads/
+1. Instalacja Python 3.10 - [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2.  W celu wprowadzenia do korzystania z Pythona:
 Do przerobienia tematy:
     - [od Python Introduction do Python Datatypes](
