@@ -26,9 +26,9 @@ https://www.programiz.com/python-programming/first-program)
 3. Python w [writualnym środowisku](https://realpython.com/python-virtual-environments-a-primer/)
 4. Wstęp do [Django](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
 
-### Laboratirum 3
-**Obiekty, modele, bazy danych i ORMs**
-Rozwiń swój projekt z Laboratorium 2 o dwa podstawowe obiekty: pytania i ankiety.
+### Laboratorium 3
+**Obiekty, modele, bazy danych i ORMs**  
+Rozwiń swój projekt z Laboratorium 2 o dwa podstawowe obiekty: pytania i ankiety.  
 1. Podążaj za krokami opisanymi: [Modele Django](https://docs.djangoproject.com/en/4.0/intro/tutorial02/)
 Zaktualizuj repozytorium po-laboratorium-2122 z wynikami pracy.
 
