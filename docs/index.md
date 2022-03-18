@@ -23,8 +23,11 @@ https://www.programiz.com/python-programming/first-program)
     - Zrób QuickStart: [quickstart](https://docs.github.com/en/get-started/quickstart)
     - Załóż repo na kod o nazwie po-laboratorium-2122
 2. Powtórka - [OOP w Pythonie](https://www.programiz.com/python-programming/object-oriented-programming)
-3. Python w [writualnym środowisku](https://realpython.com/python-virtual-environments-a-primer/)
-4. Wstęp do [Django](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
+3. Konfiguracja Python w Visual Studio Code:     
+   * https://code.visualstudio.com/docs/setup/setup-overview  
+   * https://code.visualstudio.com/docs/python/python-tutorial   
+4. Python w [writualnym środowisku](https://realpython.com/python-virtual-environments-a-primer/)
+5. Wstęp do [Django](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
 
 ### Laboratorium 3
 **Obiekty, modele, bazy danych i ORMs**  
