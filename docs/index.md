@@ -37,4 +37,41 @@ Rozwiń swój projekt z Laboratorium 2 o dwa podstawowe obiekty: pytania i ankie
 Zaktualizuj repozytorium po-laboratorium-2122 z wynikami pracy.  
 
 
+### Laboratorium 4
+**Protokół HTTP, Widoki**  
+Część teoretyczna: protokół HTTP - podstawa internetu  
+Obejrzyj: [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia)
+Część praktyczna:  
+W aplikacji, warstwa odpowiedzialna za prezentację naszych modeli obiektowych nazywana jest widokiem (ang. view).
+W przypadku aplikacji webowych, taki widok jest to zwykle strona w formacie HTML.  
+Wykonaj ćwiczenia tutorialu Django: [Tworzenie widoków](https://docs.djangoproject.com/en/4.0/intro/tutorial03/)  
+Zadanie Domowe:  
+Utwórz swoję aplikacje Django w projekcie kursu. Temat aplikacji jest dowolny. Aplikacja musi zawierać przynajmniej trzy modele powiązane ze sobą przez:  
+* [klucz obcy](https://docs.djangoproject.com/en/4.0/ref/models/fields/#foreignkey)
+* [relacje wiele do wielu](https://docs.djangoproject.com/en/4.0/ref/models/fields/#manytomanyfield) 
+   
+Zaprezentuj modele na widoku admina.
+
+Przykład zadania domowego:
+Książka kucharska, zawierająca trzy modele: typ posiłku (śniadanie, obiad, kolacja), danie, składnik.  
+`typ_posilku` składa się z dwóch pól:
+```
+ID (primary key)
+Name 
+```
+
+`danie` składa się z pól:
+```
+ID (primary key)
+Name
+typ_posilku - klucz obcy
+przepis - string
+składniki - relacja wiele do wiele do składników
+```
+
+`składniki` składa się z pól:
+```
+ID  (primary key)
+Nazwa
+```
 
