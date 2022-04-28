@@ -75,3 +75,14 @@ ID  (primary key)
 Nazwa
 ```
 
+### Laboratorium 5
+**Metoda HTTP Post, Formularze, Tworzenie obiektów**  
+Część teoretyczna:  
+[Różnica pomiędzy GET (podstawowa metoda sieci WEB) a PUT i POST.](https://www.freecodecamp.org/news/http-request-methods-explained/)
+
+Część praktyczna:  
+Do aplikacji ankieterskiej zostanie dodany formularz do rejstracji odpowiedzi. Umożliwia on wysłanie metody POST i przekazanie danych ze strony HTML do zapisania.
+https://docs.djangoproject.com/en/4.0/intro/tutorial04/
+
+Praca własna:  
+Bazując na wiedzy z Laboratorium 4 dodaj widoki do trzech modeli z własnej aplikacji. Widok powinien być zampowany do URL postaci `/nazwamodelu` i za pomocą menadżera obiektów wywoływać metodę `NazwaModelu.objects.all()` i wyświetlać stronę prezentującą wszystkie rekordy bazy danych w postaci tabeli. Do wyświetlenia strony skorzystaj z mechanizmy `templates`
