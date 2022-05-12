@@ -99,4 +99,4 @@ Do modyfikacji sposobu wyświetlania modeli zastosujemy dziedczenie po klasach m
 
 Praca własna:   
 Bazując na wiedzy z laboratorium 5, przygotuj formularze do dodawania obiektów do Twojej aplikacji  
-Bazując na wiedzy z Laboratorium 4 dodaj widoki do trzech modeli z własnej aplikacji. Widok powinien być zamapowany do URL postaci `/nazwamodelu` i za pomocą menadżera obiektów wywoływać metodę `NazwaModelu.objects.all()` i wyświetlać stronę prezentującą wszystkie rekordy bazy danych w postaci tabeli. Do wyświetlenia strony skorzystaj z mechanizmu `templates`
+
