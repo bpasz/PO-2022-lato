@@ -86,3 +86,16 @@ https://docs.djangoproject.com/en/4.0/intro/tutorial04/
 
 Praca własna:  
 Bazując na wiedzy z Laboratorium 4 dodaj widoki do trzech modeli z własnej aplikacji. Widok powinien być zampowany do URL postaci `/nazwamodelu` i za pomocą menadżera obiektów wywoływać metodę `NazwaModelu.objects.all()` i wyświetlać stronę prezentującą wszystkie rekordy bazy danych w postaci tabeli. Do wyświetlenia strony skorzystaj z mechanizmy `templates`
+
+### Laboratorium 6
+**Moduł admin Django jako praktyczny przykład zastosowania dziedziczenia w programowaniu obiektowym**
+
+Część teoretyczna:   
+[Dziedziczenie i polimorfizm w python](https://www.youtube.com/watch?v=C2QfkDcQ5MU&ab_channel=KylieYing)  
+
+Część praktyczna:  
+Do modeli aplikacji ankieterskiej dodamy indywidualny interfejs zarządzania (admin).
+Do modyfikacji sposobu wyświetlania modeli zastosujemy dziedczenie po klasach modułu `django.contrib.admin`
+
+Praca własna:   
+Bazując na wiedzy z laboratorium 5, przygotuj formularze do dodawania obiektów do Twojej aplikacji  
