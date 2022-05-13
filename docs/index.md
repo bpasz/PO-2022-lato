@@ -98,5 +98,5 @@ Do modeli aplikacji ankieterskiej dodamy indywidualny interfejs zarządzania (ad
 Do modyfikacji sposobu wyświetlania modeli zastosujemy dziedczenie po klasach modułu `django.contrib.admin`
 
 Praca własna:   
-Bazując na wiedzy z laboratorium 5, przygotuj formularze do dodawania obiektów do Twojej aplikacji  
+Bazując na wiedzy z laboratorium 5, przygotuj formularze do dodawania obiektów do Twojej aplikacji.  
 
